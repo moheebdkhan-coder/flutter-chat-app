@@ -18,6 +18,11 @@ within android/gradle/wrapper/gradle-wrapper.properties, i direct the distributi
 - Firebase Authentication 
 - Firebase Firestore (realtime database)
 
+## Setup
+1. Download your own `google-services.json` from Firebase Console
+2. Place it in `android/app/` directory
+3. Repeat for `GoogleService-Info.plist` in `ios/Runner/`
+
 ## Screen Shot
 
 - ![Welcoming screen](required-data/welcome_screen.png)
