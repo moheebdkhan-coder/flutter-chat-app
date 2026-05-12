@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71623721070",
+    "project_id": "chat-me-app-2f978",
+    "storage_bucket": "chat-me-app-2f978.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71623721070:android:c7e25787c6c71b4f12e67f",
+        "android_client_info": {
+          "package_name": "com.dkhan.chat_me_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUDRokCQMBKIbXksIDbVRxqsrAub7wkyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
